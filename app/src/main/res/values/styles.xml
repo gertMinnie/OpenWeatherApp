@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="GetWeatherButton">
+        <item name="android:background">#FF4500</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+    <style name="ApplicationBar">
+        <item name="android:background">#FF4500</item>
+    </style>
+
+    <style name="TableGrayBar">
+        <item name="android:background">#acacac</item>
+    </style>
+
+    <style name="OrangeText">
+        <item name="android:textColor">#FF4500</item>
+    </style>
+
+</resources>
